@@ -56,6 +56,6 @@ permalink: /portfolio/weddings/
     <a href="/assets/img/weddings/weddings14.jpg" rel="weddings" class="fancybox" title=""><img class="img-responsive" src="/assets/img/weddings/weddings14-thumb.jpg" /></a>
   </figure>
   <figure class="col-xs-6 col-sm-6 col-md-3 image-link pb-md">
-    <a href="/assets/img/weddings/DSC03626.jpg" rel="weddings" class="fancybox" title=""><img class="img-responsive" src="/assets/img/weddings/cc1.jpg" /></a>
+    <a href="/assets/img/weddings/DSC03626.JPG" rel="weddings" class="fancybox" title=""><img class="img-responsive" src="/assets/img/weddings/CC1.jpg" /></a>
   </figure>
 </div>
